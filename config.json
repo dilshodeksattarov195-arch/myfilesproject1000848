@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdelete",
+        "uuid": 5478928,
+        "checksum": "ph3c2c"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
